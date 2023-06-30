@@ -1,3 +1,4 @@
+"use client";
 import "./globals.css";
 import { Inter, Roboto_Mono } from "next/font/google";
 import { DataverseContext, DataverseProvider } from "@/app/context/Context";
